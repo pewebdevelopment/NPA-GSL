@@ -10,6 +10,11 @@
       "StackName": "amplify-npagsl-pedev-153838",
       "StackId": "arn:aws:cloudformation:ap-south-1:722406472854:stack/amplify-npagsl-pedev-153838/551fb470-4c71-11ed-9236-0afaf9ce7986",
       "AmplifyAppId": "d3ksclusdh49sx"
+    },
+    "categories": {
+      "auth": {
+        "npagsl1fbde8a5": {}
+      }
     }
   }
 }
