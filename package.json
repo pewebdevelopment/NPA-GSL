@@ -21,9 +21,11 @@
     "tailwindcss": "^3.1.8"
   },
   "dependencies": {
+    "@aws-amplify/ui-vue": "^2.4.24",
     "@headlessui/vue": "^1.4.2",
     "@mdi/js": "^7.0.96",
     "@pinia/nuxt": "^0.4.2",
+    "aws-amplify": "^4.3.39",
     "chart.js": "^3.9.1",
     "numeral": "^2.0.6",
     "pinia": "^2.0.22"
